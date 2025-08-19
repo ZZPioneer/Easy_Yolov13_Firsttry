@@ -1,0 +1,10 @@
+matplotlib==3.10.5
+numpy==2.3.2
+opencv_python==4.9.0.80
+opencv_python_headless==4.11.0.86
+pandas==2.3.1
+scikit_learn==1.7.1
+scipy==1.16.1
+torch==2.2.2+cu118
+tqdm==4.67.1
+ultralytics==8.3.167
